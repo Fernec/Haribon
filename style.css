@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+}
+
+body {
+  padding: 0rem 5rem 0rem 5rem;
+}
+
+.header-box {
+  padding: 10px;
+  border: 5px solid rgb(224, 147, 95);
+  background-color: rgb(233, 112, 14);
+  margin: 15px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	}
+
+
+
+
+.section {
+  border: 5px solid #4BA3C3;
+  margin: 1rem 0 1rem 0;
+  background-color: #2589BB;
+  padding: 10px;
+}
+
+.section-left {
+  background: yellow;
+  float: left;
+  width: 75%;
+  margin: 1rem 0 1rem 0;
+}
+
+.section-right {
+  float: right;
+  width: 25%;
+  overflow: hidden;
+  height: 136px;
+  padding-top: 1rem;
+}
